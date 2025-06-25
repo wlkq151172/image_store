@@ -1,0 +1,1074 @@
+2025-06-25 15:25:41 [PicGo INFO] [PicGo Server] is listening at 36677 
+2025-06-25 15:25:41 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2025-06-25 15:25:41 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2025-06-25 15:25:52 [PicGo INFO] detect second instance 
+2025-06-25 15:27:10 [PicGo INFO] [PicGo Server] shutdown 
+2025-06-25 15:27:56 [PicGo INFO] [PicGo Server] is listening at 36677 
+2025-06-25 15:27:56 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2025-06-25 15:27:56 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2025-06-25 15:29:00 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon2.png","C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon.png"]} 
+2025-06-25 15:29:00 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 15:29:04 [PicGo INFO] Before transform 
+2025-06-25 15:29:04 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 15:29:04 [PicGo INFO] Before upload 
+2025-06-25 15:29:04 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 15:29:04 [PicGo INFO] Uploading... Current uploader is [smms] 
+2025-06-25 15:29:06 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:29:06 [PicGo WARN] failed 
+2025-06-25 15:29:06 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:29:06 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:29:06 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 15:29:06 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 15:29:38 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Roaming\\Typora\\typora-user-images\\image-20250625152938447.png"]} 
+2025-06-25 15:29:38 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 15:29:38 [PicGo INFO] Before transform 
+2025-06-25 15:29:38 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 15:29:38 [PicGo INFO] Before upload 
+2025-06-25 15:29:38 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 15:29:38 [PicGo INFO] Uploading... Current uploader is [smms] 
+2025-06-25 15:29:40 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:29:40 [PicGo WARN] failed 
+2025-06-25 15:29:40 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:29:40 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:29:40 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 15:29:40 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 15:29:43 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Roaming\\Typora\\typora-user-images\\image-20250625152938447.png"]} 
+2025-06-25 15:29:43 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 15:29:43 [PicGo INFO] Before transform 
+2025-06-25 15:29:43 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 15:29:43 [PicGo INFO] Before upload 
+2025-06-25 15:29:43 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 15:29:43 [PicGo INFO] Uploading... Current uploader is [smms] 
+2025-06-25 15:29:45 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:29:45 [PicGo WARN] failed 
+2025-06-25 15:29:45 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:29:45 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:29:45 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 15:29:45 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 15:31:39 [PicGo INFO] upload clipboard file 
+2025-06-25 15:31:41 [PicGo INFO] Before transform 
+2025-06-25 15:31:41 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 15:31:41 [PicGo INFO] Before upload 
+2025-06-25 15:31:41 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 15:31:41 [PicGo INFO] Uploading... Current uploader is [smms] 
+2025-06-25 15:31:42 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:75027)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async F:\PicGo\resources\app.asar\index.js:2:883624
+    at async vi (F:\PicGo\resources\app.asar\index.js:2:883456)
+-------Error Stack End------- 
+2025-06-25 15:31:42 [PicGo WARN] failed 
+2025-06-25 15:31:42 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:75027)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async F:\PicGo\resources\app.asar\index.js:2:883624
+    at async vi (F:\PicGo\resources\app.asar\index.js:2:883456)
+-------Error Stack End------- 
+2025-06-25 15:31:42 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:75027)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async F:\PicGo\resources\app.asar\index.js:2:883624
+    at async vi (F:\PicGo\resources\app.asar\index.js:2:883456)
+-------Error Stack End------- 
+2025-06-25 15:31:53 [PicGo INFO] Before transform 
+2025-06-25 15:31:53 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 15:31:53 [PicGo INFO] Before upload 
+2025-06-25 15:31:53 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 15:31:53 [PicGo INFO] Uploading... Current uploader is [smms] 
+2025-06-25 15:31:55 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+-------Error Stack End------- 
+2025-06-25 15:31:55 [PicGo WARN] failed 
+2025-06-25 15:31:55 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+-------Error Stack End------- 
+2025-06-25 15:31:55 [PicGo ERROR] 
+------Error Stack Begin------
+Error: You must be logged in to use.
+    at Object.We [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:21423)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19858)
+    at async je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18629)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+-------Error Stack End------- 
+2025-06-25 15:32:41 [PicGo INFO] upload clipboard file 
+2025-06-25 15:32:42 [PicGo INFO] Before transform 
+2025-06-25 15:32:42 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 15:32:42 [PicGo INFO] Before upload 
+2025-06-25 15:32:42 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 15:32:42 [PicGo INFO] Uploading... Current uploader is [tcyun] 
+2025-06-25 15:32:42 [PicGo WARN] failed 
+2025-06-25 15:32:42 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:75027)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async F:\PicGo\resources\app.asar\index.js:2:883624
+    at async vi (F:\PicGo\resources\app.asar\index.js:2:883456)
+-------Error Stack End------- 
+2025-06-25 15:32:42 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:75027)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async F:\PicGo\resources\app.asar\index.js:2:883624
+    at async vi (F:\PicGo\resources\app.asar\index.js:2:883456)
+-------Error Stack End------- 
+2025-06-25 15:34:07 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Roaming\\Typora\\typora-user-images\\image-20250625152938447.png"]} 
+2025-06-25 15:34:07 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 15:34:07 [PicGo INFO] Before transform 
+2025-06-25 15:34:07 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 15:34:07 [PicGo INFO] Before upload 
+2025-06-25 15:34:07 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 15:34:07 [PicGo INFO] Uploading... Current uploader is [tcyun] 
+2025-06-25 15:34:07 [PicGo WARN] failed 
+2025-06-25 15:34:07 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:34:07 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:34:07 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 15:34:07 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 15:34:29 [PicGo INFO] Before transform 
+2025-06-25 15:34:29 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 15:34:29 [PicGo INFO] Before upload 
+2025-06-25 15:34:29 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 15:34:29 [PicGo INFO] Uploading... Current uploader is [tcyun] 
+2025-06-25 15:34:29 [PicGo WARN] failed 
+2025-06-25 15:34:29 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+-------Error Stack End------- 
+2025-06-25 15:34:29 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+-------Error Stack End------- 
+2025-06-25 15:35:08 [PicGo INFO] Before transform 
+2025-06-25 15:35:08 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 15:35:08 [PicGo INFO] Before upload 
+2025-06-25 15:35:08 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 15:35:08 [PicGo INFO] Uploading... Current uploader is [tcyun] 
+2025-06-25 15:35:08 [PicGo WARN] failed 
+2025-06-25 15:35:08 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+-------Error Stack End------- 
+2025-06-25 15:35:08 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+-------Error Stack End------- 
+2025-06-25 15:35:32 [PicGo INFO] Before transform 
+2025-06-25 15:35:32 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 15:35:32 [PicGo INFO] Before upload 
+2025-06-25 15:35:32 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 15:35:32 [PicGo INFO] Uploading... Current uploader is [tcyun] 
+2025-06-25 15:35:32 [PicGo WARN] failed 
+2025-06-25 15:35:32 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+-------Error Stack End------- 
+2025-06-25 15:35:32 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+-------Error Stack End------- 
+2025-06-25 15:36:25 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon2.png","C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon.png"]} 
+2025-06-25 15:36:25 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 15:36:25 [PicGo INFO] Before transform 
+2025-06-25 15:36:25 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 15:36:25 [PicGo INFO] Before upload 
+2025-06-25 15:36:25 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 15:36:25 [PicGo INFO] Uploading... Current uploader is [tcyun] 
+2025-06-25 15:36:25 [PicGo WARN] failed 
+2025-06-25 15:36:25 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:36:25 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:36:25 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 15:36:25 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 15:38:11 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon2.png","C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon.png"]} 
+2025-06-25 15:38:11 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 15:38:11 [PicGo INFO] Before transform 
+2025-06-25 15:38:11 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 15:38:11 [PicGo INFO] Before upload 
+2025-06-25 15:38:11 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 15:38:11 [PicGo INFO] Uploading... Current uploader is [tcyun] 
+2025-06-25 15:38:11 [PicGo WARN] failed 
+2025-06-25 15:38:11 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:38:11 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:38:11 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 15:38:11 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 15:38:37 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon2.png","C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon.png"]} 
+2025-06-25 15:38:37 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 15:38:37 [PicGo INFO] Before transform 
+2025-06-25 15:38:37 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 15:38:37 [PicGo INFO] Before upload 
+2025-06-25 15:38:37 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 15:38:37 [PicGo INFO] Uploading... Current uploader is [tcyun] 
+2025-06-25 15:38:37 [PicGo WARN] failed 
+2025-06-25 15:38:37 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:38:37 [PicGo ERROR] 
+------Error Stack Begin------
+Error: Can't find tencent COS config
+    at Object.Xe [as handle] (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:23724)
+    at je.doUpload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:19881)
+    at je.start (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:18640)
+    at async Mt.upload (F:\PicGo\resources\app.asar\node_modules\picgo\dist\index.cjs.js:1:74673)
+    at async Object.upload (F:\PicGo\resources\app.asar\index.js:2:881674)
+    at async gi (F:\PicGo\resources\app.asar\index.js:2:884429)
+    at async F:\PicGo\resources\app.asar\index.js:2:885510
+-------Error Stack End------- 
+2025-06-25 15:38:37 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 15:38:37 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 15:50:04 [PicGo INFO] [PicGo Server] shutdown 
+2025-06-25 16:18:08 [PicGo INFO] [PicGo Server] is listening at 36677 
+2025-06-25 16:18:08 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2025-06-25 16:18:08 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2025-06-25 16:19:00 [PicGo ERROR] 
+------Error Stack Begin------
+Error: spawn npm ENOENT
+    at notFoundError (F:\PicGo\resources\app.asar\node_modules\picgo\node_modules\cross-spawn\lib\enoent.js:6:26)
+    at verifyENOENT (F:\PicGo\resources\app.asar\node_modules\picgo\node_modules\cross-spawn\lib\enoent.js:40:16)
+    at ChildProcess.cp.emit (F:\PicGo\resources\app.asar\node_modules\picgo\node_modules\cross-spawn\lib\enoent.js:27:25)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+-------Error Stack End------- 
+2025-06-25 16:19:00 [PicGo ERROR] NPM is not installed 
+2025-06-25 16:19:00 [PicGo ERROR] 插件安装失败，失败码为1，错误日志为 
+ 'npm' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+ 
+2025-06-25 16:21:52 [PicGo ERROR] 
+------Error Stack Begin------
+Error: spawn npm ENOENT
+    at notFoundError (F:\PicGo\resources\app.asar\node_modules\picgo\node_modules\cross-spawn\lib\enoent.js:6:26)
+    at verifyENOENT (F:\PicGo\resources\app.asar\node_modules\picgo\node_modules\cross-spawn\lib\enoent.js:40:16)
+    at ChildProcess.cp.emit (F:\PicGo\resources\app.asar\node_modules\picgo\node_modules\cross-spawn\lib\enoent.js:27:25)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:290:12)
+-------Error Stack End------- 
+2025-06-25 16:21:52 [PicGo ERROR] NPM is not installed 
+2025-06-25 16:21:52 [PicGo ERROR] 插件安装失败，失败码为1，错误日志为 
+ 'npm' �����ڲ����ⲿ���Ҳ���ǿ����еĳ���
+���������ļ���
+ 
+2025-06-25 16:22:04 [PicGo INFO] [PicGo Server] shutdown 
+2025-06-25 16:22:12 [PicGo INFO] [PicGo Server] is listening at 36677 
+2025-06-25 16:22:12 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2025-06-25 16:22:12 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2025-06-25 16:22:31 [PicGo SUCCESS] 插件安装成功 
+2025-06-25 16:30:16 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon2.png","C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon.png"]} 
+2025-06-25 16:30:16 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 16:30:16 [PicGo INFO] Before transform 
+2025-06-25 16:30:16 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:30:16 [PicGo INFO] Before upload 
+2025-06-25 16:30:16 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:30:16 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:30:17 [PicGo WARN] failed 
+2025-06-25 16:30:17 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/typora-icon2.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:30:17 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/typora-icon2.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:30:17 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 16:30:17 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 16:31:57 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon2.png","C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon.png"]} 
+2025-06-25 16:31:57 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 16:31:57 [PicGo INFO] Before transform 
+2025-06-25 16:31:57 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:31:57 [PicGo INFO] Before upload 
+2025-06-25 16:31:57 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:31:57 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:31:58 [PicGo WARN] failed 
+2025-06-25 16:31:58 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163157595.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:31:58 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163157595.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:31:58 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 16:31:58 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 16:32:34 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon2.png","C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon.png"]} 
+2025-06-25 16:32:34 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 16:32:34 [PicGo INFO] Before transform 
+2025-06-25 16:32:34 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:32:34 [PicGo INFO] Before upload 
+2025-06-25 16:32:34 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:32:34 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:32:36 [PicGo WARN] failed 
+2025-06-25 16:32:36 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163234452.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:32:36 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163234452.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:32:36 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 16:32:36 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 16:32:59 [PicGo INFO] Before transform 
+2025-06-25 16:32:59 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:32:59 [PicGo INFO] Before upload 
+2025-06-25 16:32:59 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:32:59 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:33:00 [PicGo WARN] failed 
+2025-06-25 16:33:00 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163259627.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:33:00 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163259627.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:33:16 [PicGo INFO] upload clipboard file 
+2025-06-25 16:33:17 [PicGo INFO] upload clipboard file 
+2025-06-25 16:33:17 [PicGo INFO] Before transform 
+2025-06-25 16:33:17 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:33:17 [PicGo INFO] Before upload 
+2025-06-25 16:33:17 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:33:17 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:33:18 [PicGo INFO] Before transform 
+2025-06-25 16:33:18 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:33:18 [PicGo INFO] Before upload 
+2025-06-25 16:33:18 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:33:18 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:33:18 [PicGo WARN] failed 
+2025-06-25 16:33:18 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163317521.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:33:18 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163317521.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:33:19 [PicGo WARN] failed 
+2025-06-25 16:33:19 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163318163.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:33:19 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163318163.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:33:25 [PicGo INFO] upload clipboard file 
+2025-06-25 16:33:26 [PicGo INFO] Before transform 
+2025-06-25 16:33:26 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:33:26 [PicGo INFO] Before upload 
+2025-06-25 16:33:26 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:33:26 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:33:28 [PicGo WARN] failed 
+2025-06-25 16:33:28 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163326792.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:33:28 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163326792.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:34:35 [PicGo INFO] upload clipboard file 
+2025-06-25 16:34:36 [PicGo INFO] Before transform 
+2025-06-25 16:34:36 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:34:36 [PicGo INFO] Before upload 
+2025-06-25 16:34:36 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:34:36 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:34:37 [PicGo WARN] failed 
+2025-06-25 16:34:37 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163436714.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:34:37 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163436714.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:34:49 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon2.png","C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon.png"]} 
+2025-06-25 16:34:49 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 16:34:49 [PicGo INFO] Before transform 
+2025-06-25 16:34:49 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:34:49 [PicGo INFO] Before upload 
+2025-06-25 16:34:49 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:34:49 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:34:50 [PicGo WARN] failed 
+2025-06-25 16:34:50 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163449666.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:34:50 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163449666.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:34:50 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 16:34:50 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 16:35:00 [PicGo INFO] [PicGo Server] shutdown 
+2025-06-25 16:35:06 [PicGo INFO] [PicGo Server] is listening at 36677 
+2025-06-25 16:35:06 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] 
+2025-06-25 16:35:06 [PicGo INFO] register builtin shortKey command: [picgo:upload] - [CommandOrControl+Shift+P] successfully 
+2025-06-25 16:35:21 [PicGo INFO] Before transform 
+2025-06-25 16:35:21 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:35:21 [PicGo INFO] Before upload 
+2025-06-25 16:35:21 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:35:21 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:35:22 [PicGo WARN] failed 
+2025-06-25 16:35:22 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163521272.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:35:22 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163521272.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:35:31 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon2.png","C:\\Users\\DELL\\AppData\\Local\\Temp\\Typora\\typora-icon.png"]} 
+2025-06-25 16:35:31 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 16:35:31 [PicGo INFO] Before transform 
+2025-06-25 16:35:31 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:35:31 [PicGo INFO] Before upload 
+2025-06-25 16:35:31 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:35:31 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:35:31 [PicGo WARN] failed 
+2025-06-25 16:35:31 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163531045.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:35:31 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163531045.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:35:31 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 16:35:31 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 16:36:07 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Roaming\\Typora\\typora-user-images\\image-20250625152938447.png"]} 
+2025-06-25 16:36:07 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 16:36:07 [PicGo INFO] Before transform 
+2025-06-25 16:36:07 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:36:07 [PicGo INFO] Before upload 
+2025-06-25 16:36:07 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:36:07 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:36:08 [PicGo WARN] failed 
+2025-06-25 16:36:08 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163607805.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:36:08 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625163607805.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:36:08 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 16:36:08 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 16:41:15 [PicGo INFO] Before transform 
+2025-06-25 16:41:15 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:41:15 [PicGo INFO] Before upload 
+2025-06-25 16:41:15 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:41:15 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:41:16 [PicGo WARN] failed 
+2025-06-25 16:41:16 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625164115375.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:41:16 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625164115375.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:49:37 [PicGo INFO] [PicGo Server] get the request {"list":["C:\\Users\\DELL\\AppData\\Roaming\\Typora\\typora-user-images\\image-20250625152938447.png"]} 
+2025-06-25 16:49:37 [PicGo INFO] [PicGo Server] upload files in list 
+2025-06-25 16:49:37 [PicGo INFO] Before transform 
+2025-06-25 16:49:37 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:49:37 [PicGo INFO] Before upload 
+2025-06-25 16:49:37 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:49:37 [PicGo INFO] Uploading... Current uploader is [github] 
+2025-06-25 16:49:38 [PicGo WARN] failed 
+2025-06-25 16:49:38 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625164937103.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:49:38 [PicGo ERROR] {
+  "method": "PUT",
+  "url": "https://api.github.com/repos/undefined/contents/20250625164937103.png",
+  "statusCode": 401,
+  "message": "Request failed with status code 401",
+  "stack": {},
+  "response": {
+    "status": 401,
+    "statusCode": 401,
+    "body": {
+      "message": "Bad credentials",
+      "documentation_url": "https://docs.github.com/rest",
+      "status": "401"
+    }
+  }
+} 
+2025-06-25 16:49:38 [PicGo INFO] [PicGo Server] upload result  
+2025-06-25 16:49:38 [PicGo WARN] [PicGo Server] upload failed, see picgo.log for more detail ↑ 
+2025-06-25 16:51:35 [PicGo INFO] Before transform 
+2025-06-25 16:51:35 [PicGo INFO] Transforming... Current transformer is [path] 
+2025-06-25 16:51:35 [PicGo INFO] Before upload 
+2025-06-25 16:51:35 [PicGo INFO] beforeUploadPlugins: renameFn running 
+2025-06-25 16:51:35 [PicGo INFO] Uploading... Current uploader is [gitee] 
+2025-06-25 16:51:37 [PicGo INFO] [上传操作]异常：Request failed with status code 404 
+2025-06-25 16:51:37 [PicGo SUCCESS] 
+ 
